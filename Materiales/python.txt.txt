@@ -1,0 +1,2 @@
+Python is a generar-purpose, high level,object-orietende programmin language.
+we all love python
